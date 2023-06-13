@@ -13,7 +13,3 @@ I am a data enthusiast looking to dive deeper into data and analytics engineerin
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeiroluan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </p>
 </div>
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ribeiroluan)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
