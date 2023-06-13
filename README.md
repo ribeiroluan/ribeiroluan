@@ -1,16 +1,19 @@
-### Hi there 👋
+## ✋ Hi there!
 
-<!--
-**ribeiroluan/ribeiroluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data enthusiast looking to dive deeper into data and analytics engineering concepts and applications, and this is the place I keep all of my practice projects. I currently work as a Senior Business Analyst at a Fintech company using data to generate actionable insights and now I am looking into expanding my skillset and steering  into the engineering world.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫Contact at: savarizluan@gmail.com
+
+ &nbsp;![Connect](https://i.stack.imgur.com/gVE0j.png) Connect at: [linkedin.com/in/ribeiroluan](https://www.linkedin.com/in/ribeiroluan/)
+
+<div>
+<p align="center">
+<a href="https://github.com/ribeiroluan">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeiroluan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</p>
+</div>
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ribeiroluan)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
