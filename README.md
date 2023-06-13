@@ -6,3 +6,11 @@ I am a data enthusiast looking to dive deeper into data and analytics engineerin
 📫Contact at: savarizluan@gmail.com
 
  &nbsp;![Connect](https://i.stack.imgur.com/gVE0j.png) Connect at: [linkedin.com/in/ribeiroluan](https://www.linkedin.com/in/ribeiroluan/)
+
+
+<div>
+<p align="center">
+<a href="https://github.com/ribeiroluan">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeiroluan&show_icons=true&theme=github_dark"/>
+</p>
+</div>
